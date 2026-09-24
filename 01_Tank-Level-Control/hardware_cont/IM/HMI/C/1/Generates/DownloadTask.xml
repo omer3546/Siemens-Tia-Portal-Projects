@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="17.0.0.0"
+    CreationTime="2026-07-21 13:18:19 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="hardware_cont.HMI_2[TP700 Comfort Outdoor]"
+    RtProjectFolderName="hardware_cont.HMI_2[TP700 Comfort Outdoor]"
+    DeviceType="TP700 Comfort Outdoor"
+    DisplayOrientation="0"
+    RTReleaseNo="17.0.0.0"
+    ImageReleaseNo="17.0.0.0"
+    RTCV="17.0.0.0"
+    PRCV="17.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="CP_7_15_Outdoor" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>
